@@ -23,6 +23,8 @@ body {
 
 img {
   margin: 0;
+  display: block;
+  width: 100%;
 }
 
 img:nth-child(1) {
