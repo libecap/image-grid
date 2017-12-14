@@ -21,7 +21,11 @@ body {
   margin: 0;
 }
 
-img:nth-of-type(1) {
+img {
+  margin: 0;
+}
+
+img:nth-child(1) {
   width: 100%;
   float: left;
 }
